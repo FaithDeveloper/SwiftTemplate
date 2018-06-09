@@ -16,7 +16,7 @@ Template을 만들기 위해서는 총 3가지 종류의 파일이 필요하게 
 
 <br/>
 
-![Template_001](https://github.com/FaithDeveloper/TIL/tree/master/res/Template_001.png)
+![Template_001](https://github.com/FaithDeveloper/TIL/blob/master/res/Template_001.png)
 
 <br/>
 
