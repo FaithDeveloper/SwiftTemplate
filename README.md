@@ -16,7 +16,7 @@ Template을 만들기 위해서는 총 3가지 종류의 파일이 필요하게 
 
 <br/>
 
-![Template_001](https://github.com/FaithDeveloper/TIL/blob/master/res/Template_001.png)
+![Template_001](./readme_res/Template/Template_001.png)
 
 <br/>
 
@@ -91,7 +91,7 @@ Template 선택 화면에서 보여지는 이미지 입니다. 자유롭게 변�
 
 `xcode`에서 Template 을 적용하려면 plist의 데이터 값이 정확히 입력되어야 합니다. 
 
-![Template_002](https://github.com/FaithDeveloper/TIL/blob/master/res/Template_002.png)
+![Template_002](./readme_res/Template/Template_002.png)
 
 <br/>
 
@@ -105,7 +105,7 @@ Template 선택 화면에서 보여지는 이미지 입니다. 자유롭게 변�
 
 위 주소로 만들어준 Template 파일을 하나의 폴더에 넣어서 옮겨줍니다. Template 을 갖고 있는 폴더명은 파일명 끝에 '.xctemplate'로 지정해야하며 폴더명이 `xcode` 의 템플릿명이 됩니다.
 
-![Template_003](https://github.com/FaithDeveloper/TIL/blob/master/res/Template_003.png)
+![Template_003](./readme_res/Template/Template_003.png)
 
 위의 그림을 보면 channy가 템플릿 그룹명이 되며 TableViewcontroller와 viewController 두 개의 탬플릿이 추가한 것을 확인 할 수 있습니다.
 
@@ -115,11 +115,11 @@ Template 선택 화면에서 보여지는 이미지 입니다. 자유롭게 변�
 
 `xcode`  실행 한 후  프로젝트 실행(또는 생성) 하여 `New File` 진입합니다.
 
-![Template_004](https://github.com/FaithDeveloper/TIL/blob/master/res/Template_004.png)
+![Template_004](./readme_res/Template/Template_004.png)
 
 New File 작업창의 가장 하단으로 내리면 추가한 Template 파일을 확인할 수 있습니다. 원하는 템플릿을 선택 후 생성하면 기존 작성한 탬플릿 형태로 생성됩니다.
 
-![Template_005](https://github.com/FaithDeveloper/TIL/blob/master/res/Template_005.png)
+![Template_005](./readme_res/Template/Template_005.png)
 
 <br/>
 
